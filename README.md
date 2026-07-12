@@ -8,7 +8,9 @@ repo: https://github.com/rethika-11/Tap-Academy-Clone
 ## Screenshots
 
 ###Home Page
-![Home Page](
+![Home Page](tap.w.png)
+### Product Page
+![Product Page](!tap.m.jpeg)
 
 ## Features
 
