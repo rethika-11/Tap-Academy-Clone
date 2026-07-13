@@ -1,6 +1,6 @@
 # Tap Academy Clone
 
-An educational clone of the Tap Academy homepage — structure, sections and real placement stats/course names, rewritten in my own words, on a dark AR-tech visual theme.
+An educational clone of the Tap Academy homepage — structure, sections and real placement stats/course names, rewritten in my own words, on a dark AR-tech visual theme.With the help of claude code.
 
 **Live demo:** https://rethika-11.github.io/Tap-Academy-Clone/
 repo: https://github.com/rethika-11/Tap-Academy-Clone
